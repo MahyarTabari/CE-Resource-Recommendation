@@ -1,5 +1,5 @@
 - **[دوره آمار و احتمال مهندسی صنعتی شریف](https://maktabkhooneh.org/course/%D8%A2%D9%85%D8%A7%D8%B1-%D8%A7%D8%AD%D8%AA%D9%85%D8%A7%D9%84-%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C-mk627/)** —  علاقه مند به دنیای آمار و احتمال(مخصوصا آمار) خواهید شد! البته احتمالا /:
-- **[ مقدمه‌ای بر بیوانفورماتیک (تحلیل داده‌های زیستی)](https://maktabkhooneh.org/course/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-mk374/)** — برای درک بهتر مفاهیم آماری با کابرد در مسائل بیوانفورماتیک
+- **[مقدمه‌ای بر بیوانفورماتیک (تحلیل داده‌های زیستی)](https://maktabkhooneh.org/course/%D9%85%D9%82%D8%AF%D9%85%D9%87-%D8%A8%DB%8C%D9%88%D8%A7%D9%86%D9%81%D9%88%D8%B1%D9%85%D8%A7%D8%AA%DB%8C%DA%A9-%D8%AA%D8%AD%D9%84%DB%8C%D9%84-%D8%AF%D8%A7%D8%AF%D9%87-%D8%B2%DB%8C%D8%B3%D8%AA%DB%8C-mk374/)** — برای درک بهتر مفاهیم آماری با کابرد در مسائل بیوانفورماتیک
 - **[Statistics John S. Witte and Robert S. White]()** — یک کتاب منسجم برای درک بهتر آمار
 - **[Practical Statistics for Data Scientists Andrew Bruce and Peter Bruce]()** — کتابی روون و کاربردی
 - **[Bayesian Data Analysis Andrew Gelman, John B. Carlin, Hal S. Stern, David B. Dunson, Aki Vehtari, Donald B. Rubin]()** — برای کسایی که می خوان از بیز چیزی بیشتر از یک فرمول یک خطی قاعده بیز بدونن
