@@ -48,7 +48,7 @@ jobs:
           # Extract only new content lines from the diff, ignore diff metadata
           added_lines=$(git diff origin/main...HEAD | grep '^+' | grep -v '^+++' | sed 's/^+//')
           # Define the regex pattern to match
-          pattern='^- \*\*\[[^\]]+\]\([^)]+\)\*\* [—-] .+'
+          pattern='^- \*\*\[[^\]]+\]\([^\)]*\)\*\* [—-] .+'
           # Check if added lines match the pattern
           echo "$added_lines" | while IFS= read -r line; do
             if ! echo "$line" | grep -Pq "$pattern"; then
