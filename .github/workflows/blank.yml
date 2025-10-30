@@ -1,0 +1,59 @@
+name: PR Validation
+
+on:
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  check-pr:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout PR
+      - name: Checkout PR
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Make sure we have full history to compare
+
+      # Step 2: Check if exactly one line is added
+      - name: Check if only one line is added
+        run: |
+          # Compare the PR branch against main
+          lines_added=$(git diff origin/main...HEAD --numstat | awk '{added += $1} END {print added}')
+          if [ -z "$lines_added" ]; then
+            lines_added=0
+          fi
+          if [ "$lines_added" -ne 1 ]; then
+            echo "Error: PR must add exactly one line. Lines added: $lines_added"
+            exit 1
+          fi
+
+      # Step 3: Check for resources directory and .md files
+      - name: Check for resources directory and .md files
+        run: |
+          if [ ! -d "resources" ]; then
+            echo "Error: 'resources' directory does not exist."
+            exit 1
+          fi
+          txt_files=$(find resources -type f -name "*.md")
+          if [ -z "$txt_files" ]; then
+            echo "Error: No .txt files found in 'resources' directory."
+            exit 1
+          fi
+
+      # Step 4: Check if new line matches the specified pattern
+      - name: Check if new lines match the required pattern
+        run: |
+          # Extract only new content lines from the diff, ignore diff metadata
+          added_lines=$(git diff origin/main...HEAD | grep '^+' | grep -v '^+++' | sed 's/^+//')
+          # Define the regex pattern to match
+          pattern='^- \*\*\[[^\]]+\]\([^)]+\)\*\* [—-] .+'
+          # Check if added lines match the pattern
+          echo "$added_lines" | while IFS= read -r line; do
+            if ! echo "$line" | grep -Pq "$pattern"; then
+              echo "Error: The following line does not match the required pattern:"
+              echo "$line"
+              exit 1
+            fi
+          done
