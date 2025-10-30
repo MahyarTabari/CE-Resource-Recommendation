@@ -1,6 +1,5 @@
 - **[دوره اسمبلی‌ آرم صنعتی قم](https://drive.google.com/drive/folders/1dF0m7CArn2oydzHl-88C3Cj4VmZhF4wo)** — همون محتوای کتاب  ولی ویدیویی
 - **[Modern Arm Assembly Language Programming Daniel Kusswurm]()** — کتاب روان بدون اضافه جات
-- **[Mastering STM32 Carmine Noviello]()** — دقیق با طرح جزییات نزدیک به دنیای واقعی
-- **[Operating Systems Concepts Abraham Silberschatz, Greg Gagne, and Peter Baer Galvin]()** — آکتابی خوب برای درک مفاهیم(نه پیاده سازی) میکروکنترلر
+- **[Mastering STM32 Carmine Noviello]()** — آکتابی خوب برای درک مفاهیم(نه پیاده سازی) میکروکنترلر
 - **[آموزش مقدماتی Makefile](https://maktabkhooneh.org/course/%D8%A2%D9%85%D9%88%D8%B2%D8%B4-%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86-make-file-mk1008/)** — به منظور ارزش قائل شدن برای زمانتون(و احتمالا اعصابتون) که دستورات تکراری برای خروجی گرفتن استفاده نکنید
 - **[Practical IOT hacking]()** — برای خوش گذروندن (:
