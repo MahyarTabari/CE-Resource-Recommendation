@@ -1,0 +1,4 @@
+- **[Interactive Linear Algebra Dan Margalit, Joseph Rabinoff](https://textbooks.math.gatech.edu/ila/)** — به یاد بازی ریاضی های قدیم (:
+- **[Introduction to Linear Algebra Gilbert Strang]()** — کتابی با شهرت جهانی الحق که کتاب خوبیه
+- **[Linear Algebra Trefor Bazett](https://youtube.com/playlist?list=PLHXZ9OQGMqxfUl0tcqPNTJsb7R6BqSLo6&si=AQChE1m4sqjbPzEt)** — راضی ام ازت دکتر (:
+- **[Mathematics for Machine Learning A. Aldo Faisal, Cheng Soon Ong, and Marc Peter Deisenroth](https://mml-book.github.io/book/mml-book.pdf)** — برای کسی که نیاز به جبر خطی پیدا کرده، درس رو تا حد نسبتا خوبی بلده و می خواد مفاهیم و فرمول ها رو مرور کنه یا نواقص رو برطرف کنه(به کمک جستجو البته)
