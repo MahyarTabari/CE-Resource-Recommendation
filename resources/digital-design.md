@@ -1,0 +1,1 @@
+- **[HDLBits](https://hdlbits.01xz.net/wiki/Main_Page)** — دست گرمی قبل شروع درس
