@@ -1,2 +1,2 @@
-- **[دوره مدار منطقی nesoacademy](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=1bVQH3ge82MI08S-)** — لقمه لقمه یاد می‌گیری (: ویدیوها کوتاه حدودا ۵ تا ۱۰ دقیقه‌ای
+- **[دوره مدار منطقی Nesoacademy](https://youtube.com/playlist?list=PLBlnK6fEyqRjMH3mWf6kwqiTbT798eAOm&si=1bVQH3ge82MI08S-)** — لقمه لقمه یاد می‌گیری (: ویدیوها کوتاه حدودا ۵ تا ۱۰ دقیقه‌ای
 - **[کتاب مدار منطقی هادی یوسفی]()** — کامل و روون
