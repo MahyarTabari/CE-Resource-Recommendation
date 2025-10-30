@@ -1,0 +1,6 @@
+- **[دوره سیستم عامل فردوسی مشهد](https://ocw.um.ac.ir/course/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85-%D8%B9%D8%A7%D9%85%D9%84/)** — اینو حتما ببین! لازم به تعریف نیست!
+- **[کتاب سیستم‌عامل حقیقت]()** — یک تیر و چند نشون! ترکیب چند تا کتاب مرجع
+- **[Moderen Operating Systems Andrew S. Tanenbaum]()** — دقیق با طرح جزییات نزدیک به دنیای واقعی
+- **[Operating Systems Concepts Abraham Silberschatz, Greg Gagne, and Peter Baer Galvin]()** — آکادمیک با یک نگاه کلی بدون درگیری با جزییات
+- **[Understanding Linux Kernel Daniel P. Bovet and Marco Cesati]()** — تو دنیای واقعی دقیقا چی می  گذره؟
+- **[Linux Device Drivers Alessandro Rubini, Greg Kroah-Hartman, and Jonathan Corbet](https://lwn.net/Kernel/LDD3/)** — تو دنیای واقعی دقیقا چی می  گذره؟
