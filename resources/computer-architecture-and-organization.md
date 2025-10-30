@@ -1,0 +1,3 @@
+- **[Programmed Introduction to MIPS Assembly Language](https://chortle.ccsu.edu/assemblytutorial/)** — جبرانی نسبتا کوتاه به جای درس ساختار زبان
+- **[کتاب معماری کامپیوتر هادی یوسفی]()** — جامع و کامل برای دیدن ایده ها و حل سوال
+- **[دوره معماری کامپیوتر صنعتی شریف](https://maktabkhooneh.org/course/%D9%85%D8%B9%D9%85%D8%A7%D8%B1%DB%8C-%DA%A9%D8%A7%D9%85%D9%BE%DB%8C%D9%88%D8%AA%D8%B1-mk51/)** — (احتمالا) تنها دوره رایگان و کامل معماری در دسترس عموم
