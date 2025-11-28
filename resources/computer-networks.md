@@ -1,2 +1,3 @@
 - **[نکته و تست شبکه‌های کامپیوتری مکتب‌گرام](https://www.aparat.com/playlist/413357)** —  حل تمارین کتاب و سوالات کنکور(تشریحی حل می شه)
-- **[Computer Networking Top Down Approach Jim Kurose and Keith W. Ross]()** — کتاب خوبیه (: ارزش داره که بخونید
+- **[Computer Networking Top Down Approach Jim Kurose and Keith W. Ross]()** — از بالا به پایین (:
+- **[Computer Networks Andrew S. Tanenbaum]()** — از پایین به بالا (:
