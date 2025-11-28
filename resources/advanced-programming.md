@@ -1,3 +1,6 @@
 - **[Learn C++](https://www.learncpp.com/)** — عمیق(خیلی عمیق منظورمه) جای این رو نمی شه با چیزی پر کرد! البته احتمالا/:
 - **[ اصول برنامه نویسی C و ++C صنعتی اصفهان](https://maktabkhooneh.org/course/%D8%A7%D8%B5%D9%88%D9%84-%D8%A8%D8%B1%D9%86%D8%A7%D9%85%D9%87-%D9%86%D9%88%DB%8C%D8%B3%DB%8C-c-%D9%88-c-mk68/)** — از دور و بر شنیدم خوبه و چیز دیگه‌ای نمی دونم
 - **[Secure Coding in C and C++]()** — در جواب به سوال زیر و البته بسیار فراتر: <حالا چی می‌شه اگه از ()gets استفاده کنیم؟ چرا الکی سختش می‌کنید؟!؟ »
+- **[Elegant Object]()** — شی‌گرایی خالص چه شکلیه؟
+- **[Linux Kernel Coding Style](https://www.kernel.org/doc/html/v6.4/process/coding-style.html)** — چجوری کد C تمیز بنویسیم؟
+- **[Google Style Guides](https://google.github.io/styleguide/)** — ساختارمند و تمیز
