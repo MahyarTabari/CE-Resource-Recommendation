@@ -1,10 +1,10 @@
 ![Preview](assets/preview-v1.1.0.png)
 
+تذکر:‌تصویر بالا پیش‌نمایش است. برای دانلود به قسمت [Release](https://github.com/MahyarTabari/CE-Resource-Recommendation/releases/) مراجعه کنید.
+
 <div dir="rtl">
 
 # پیشنهاداتی برای لذت بردن از دروس کارشناسی مهندسی کامپیوتر :)
-
-تذکر:‌تصویر بالا پیش‌نمایش است. برای دانلود به قسمت [Release](https://github.com/MahyarTabari/CE-Resource-Recommendation/releases/) مراجعه کنید.
 
 ## FAQ (:
 #### می‌خوام مشارکت داشته باشم ولی نمی‌دونم چجوری؟
