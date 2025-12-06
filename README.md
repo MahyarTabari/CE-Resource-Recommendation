@@ -1,6 +1,6 @@
 ![Preview](assets/preview-v1.1.0.png)
 
-تذکر:‌تصویر بالا پیش‌نمایش است. برای دانلود به قسمت [Release](https://github.com/MahyarTabari/CE-Resource-Recommendation/releases/) مراجعه کنید.
+تذکر:‌تصویر بالا پیش‌نمایش است. برای دانلود pdf به قسمت [Release](https://github.com/MahyarTabari/CE-Resource-Recommendation/releases/) مراجعه کنید.
 
 <div dir="rtl">
 
