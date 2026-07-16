@@ -1,4 +1,4 @@
-![Preview](assets/preview-v1.1.0.png)
+![Preview](assets/preview-v1.2.0.png)
 
 تذکر:‌تصویر بالا پیش‌نمایش است. برای دانلود pdf به قسمت [Release](https://github.com/MahyarTabari/CE-Resource-Recommendation/releases/) مراجعه کنید.
 
